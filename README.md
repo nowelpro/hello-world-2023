@@ -1,24 +1,20 @@
-# hello-world
+# hello-world из лекции (декабрь 2023)
 
-## Project setup
+## Установка проекта 
+(набрать в консоли)
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск проекта для разработки
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка проекта для публикации
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
+### Дополнительная документация по командам
 See [Configuration Reference](https://cli.vuejs.org/config/).
